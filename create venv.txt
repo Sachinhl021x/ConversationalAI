@@ -1,0 +1,7 @@
+C:\Python310\python.exe
+C:\Users\Sachin\anaconda3\python.exe
+C:\Users\Sachin\AppData\Local\Microsoft\WindowsApps\python.exe
+
+py -m virtualenv rasaenv -p="C:\Users\Sachin\AppData\Local\Programs\Python\Python37\python.exe" "C:\Users\Sachin\Documents\bot"
+
+.\rasaenv\Scripts\activate
